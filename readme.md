@@ -4,10 +4,6 @@ This is a simple web application and API for products tender. It is built using 
 
 > Notice: This is for learning purpose, this project is not production ready.
 
-- It web based
-- REST API
-
-It is built using laravel. Check out client android application **[Here](https://github.com/muhozi/Build-a-react-native-auction-android-app)**
 
 ## Requirements
 
@@ -20,7 +16,7 @@ It is built using laravel. Check out client android application **[Here](https:/
 
 ### Clone the repo
 
-`git clone git@github.com:muhozi/auction-application.git`
+`git clone git@github.com:thabanilt/carauction.git`
 
 ### Install the dependencies
 
@@ -77,8 +73,6 @@ Run the application using the following command:
 
 ## Authors
 
-[Emery Muhozi](https://twitter.com/EmeryMuhozi)
+Learnmore ndlovu
 
-## Licence
 
-[MIT License](http://opensource.org/licenses/mit-license.html).
